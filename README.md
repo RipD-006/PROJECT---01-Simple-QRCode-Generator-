@@ -3,6 +3,7 @@ This Python project is designed to generate QR codes based on user input. A QR c
 
 # Required Libraries & Dependencies :
 qrcode: The core library to generate the QR codes.
+
 pillow: A Python Imaging Library (PIL) fork used for handling image operations.
 
 # Installation:
