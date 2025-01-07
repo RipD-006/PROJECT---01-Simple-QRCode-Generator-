@@ -7,4 +7,4 @@ qrcode: The core library to generate the QR codes.
 pillow: A Python Imaging Library (PIL) fork used for handling image operations.
 
 # Installation:
-  pip install qrcode[pil]
+    pip install qrcode[pil]
